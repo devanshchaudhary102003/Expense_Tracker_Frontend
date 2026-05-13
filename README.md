@@ -65,7 +65,6 @@
 ### Install & run in development
 
 ```bash
-git clone <your-repo-url>
 cd spendsmart-frontend
 
 npm install
